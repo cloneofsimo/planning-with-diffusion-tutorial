@@ -6,6 +6,10 @@ Written by Simo Ryu, Hyunsik Oh, Moonkyu Jung, Taegyu Song
 
 > Technical Report based on the experiments inspired by the paper: [Planning with Diffusion for Flexible Behavior Synthesis](https://arxiv.org/abs/2205.09991), by Michael Janner, Yilun Du, Joshua B. Tenenbaum and Sergey Levine
 
+###  It looks like video breaks on github. So run/view the notebook on [Google Colab](https://colab.research.google.com/drive/1MT-YhOAsdD-T3kAMCsViVZazk7HrZaat)
+
+
+
 Planning with diffusion models has garnered significant attention in the field of continuous action-space planning. However, implementing diffusion models from scratch for environments with high-dimensional action-observation spaces can be exceptionally challenging. 
 Moreover, the current landscape lacks easily understandable tutorials for diffusion planners. Our goal with this technical report is to provide a more accessible and practical approach to planning with diffusion models, specifically focusing on trajectory planning.
 
